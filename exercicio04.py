@@ -10,5 +10,5 @@ if imc < 18.5:
 elif imc < 25:
     print("Peso normal.")
 else:
-    print(Acima do peso.)
+    print("Acima do peso.")
     
